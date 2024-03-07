@@ -1,4 +1,6 @@
-# Aplicação de Consumo de Serviços Externos usando Flurl com ASP.NET Core 8
+# POC Flurl
+
+##Aplicação de Consumo de Serviços Externos usando Flurl com ASP.NET Core 8 (minimal API)
 
 Este projeto é uma prova de conceito (PoC) para demonstrar o consumo de serviços externos utilizando a biblioteca Flurl com ASP.NET Core 8.
 
